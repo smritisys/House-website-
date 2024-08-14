@@ -1,0 +1,21 @@
+.img{
+    background-image: url(/img/Rectangle\ 342.png); 
+    position: cover;
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 50%;
+    padding: 80px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.contain {
+    position: absolute;
+   
+
+}
+.position {
+    position: relative;
+    z-index: 0;
+
+}
